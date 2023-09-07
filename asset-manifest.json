@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/static/css/main.8d132d81.css",
+    "main.js": "/static/js/main.fbad633a.js",
+    "static/media/wonders-logo.png": "/static/media/wonders-logo.274bd4b8b10befed5bd8.png",
+    "static/media/youtube-sans-light.ttf": "/static/media/youtube-sans-light.d3c359c7ec5352849166.ttf",
+    "index.html": "/index.html",
+    "main.8d132d81.css.map": "/static/css/main.8d132d81.css.map",
+    "main.fbad633a.js.map": "/static/js/main.fbad633a.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.8d132d81.css",
+    "static/js/main.fbad633a.js"
+  ]
+}
